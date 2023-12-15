@@ -95,7 +95,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/movies/5",
+					"raw": "http://127.0.0.1:8000/api/v1/movies/3",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -108,7 +108,7 @@
 						"api",
 						"v1",
 						"movies",
-						"5"
+						"3"
 					]
 				}
 			},
@@ -129,7 +129,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/movies/3",
+					"raw": "http://127.0.0.1:8000/api/v1/movies/5",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -142,7 +142,7 @@
 						"api",
 						"v1",
 						"movies",
-						"3"
+						"5"
 					]
 				}
 			},
@@ -236,7 +236,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/games/5",
+					"raw": "http://127.0.0.1:8000/api/v1/games/3",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -249,7 +249,7 @@
 						"api",
 						"v1",
 						"games",
-						"5"
+						"3"
 					]
 				}
 			},
@@ -270,7 +270,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/games/3",
+					"raw": "http://127.0.0.1:8000/api/v1/games/5",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -283,7 +283,7 @@
 						"api",
 						"v1",
 						"games",
-						"3"
+						"5"
 					]
 				}
 			},
