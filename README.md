@@ -32,9 +32,9 @@ Este é um projeto que implementa uma API em Laravel (PHP) que permite criar, le
 | DELETE | /api/movies/{id} | Deleta um filme existente                 |
 | GET    | /api/games       | Lista todos os jogos                      |
 | GET    | /api/games/{id}  | Mostra os detalhes de um jogo específico  |
-| POST   | /api/games       | Cria um novo filme                        |
-| PUT    | /api/games/{id}  | Atualiza um filme existente               |
-| DELETE | /api/games/{id}  | Deleta um filme existente                 |
+| POST   | /api/games       | Cria um novo jogo                         |
+| PUT    | /api/games/{id}  | Atualiza um jogo existente                |
+| DELETE | /api/games/{id}  | Deleta um jogo existente                  |
 
 -   Para testar a API, você pode usar o Postman ou qualquer outra ferramenta de sua preferência
 -   Você pode importar a coleção do Postman que está na raiz do projeto (`CRUD_API_Laravel.postman_collection.json`) para ter acesso aos exemplos de requisições e respostas
